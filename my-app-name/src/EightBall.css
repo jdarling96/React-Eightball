@@ -1,0 +1,28 @@
+.eightBallParent{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    
+    
+}
+.eightBallCircle {
+    align-self: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+
+}
+
+.eightBallMsg{
+    color: white;
+    text-align: center;
+    margin-top: 45%;
+    
+
+}
+.resetButton{
+    height: 30px;
+    width: 60px;
+    align-self: center;
+}
